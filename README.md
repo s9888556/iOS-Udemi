@@ -5,9 +5,12 @@ _iOS & Swift - The Complete iOS App Development Bootcamp by Dr. Angela Yu_
 
 | Section | App         |           | 
 |:--------|:------------|:----------|
-|    7    | Xylophone   | Cell 3    | 
-|    6    | Calculator  | Cell 3    | 
-|    5    | Magic 8 Ball| Cell 3    | 
-|    4    | Dicee       | Cell 3    | 
-|    3    | I am Poor   | Cell 3    | 
-|    2    | I am Rich   | ![I am Rich](/images/1.png)    |
+|    8    | EggTimer    | <img src="images/8.png" width="240">| 
+|    7    | Xylophone   | <img src="images/7.png" width="240">| 
+|    6    | Calculator  | <img src="images/6.png" width="240">| 
+|    5    | Magic 8 Ball| <img src="images/5.png" width="240">| 
+|    4    | Dicee       | <img src="images/4.png" width="240">| 
+|    3    | I am Poor   | <img src="images/3.png" width="240">| 
+|    2    | I am Rich   | <img src="images/2.png" width="240">|
+
+
