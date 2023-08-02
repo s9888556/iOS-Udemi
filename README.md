@@ -5,6 +5,7 @@ _iOS & Swift - The Complete iOS App Development Bootcamp by Dr. Angela Yu_
 
 | Section | App         |                                     | 
 |:--------|:------------|:------------------------------------|
+|    9    | Quizzler    | <img src="images/9.png" width="160">| 
 |    8    | EggTimer    | <img src="images/8.png" width="160">| 
 |    7    | Xylophone   | <img src="images/7.png" width="160">| 
 |    6    | Calculator  | <img src="images/6.png" width="160">| 
