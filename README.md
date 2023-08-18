@@ -5,6 +5,7 @@ _iOS & Swift - The Complete iOS App Development Bootcamp by Dr. Angela Yu_
 
 | Section | App            |                                      | 
 |:--------|:---------------|:-------------------------------------|
+|    12   | Tipsy          | <img src="images/12.png" width="160">| 
 |    11   | BMI Calculator | <img src="images/11.png" width="160">| 
 |    10   | Destini        | <img src="images/10.png" width="160">| 
 |    9    | Quizzler       | <img src="images/9.png" width="160"> | 
