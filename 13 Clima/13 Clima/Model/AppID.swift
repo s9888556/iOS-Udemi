@@ -6,3 +6,5 @@
 //
 
 import Foundation
+
+let appId = "dd1ea551b12542cd36ba89cfaef9a473"
