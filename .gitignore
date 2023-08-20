@@ -94,3 +94,4 @@ fastlane/test_output
 iOSInjectionProject/
 *.xcuserstate
 13 Clima/13 Clima/Model/AppID.swift
+14 ByteCoin/14 ByteCoin/Model/ApiKey.swift
